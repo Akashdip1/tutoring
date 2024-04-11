@@ -1,0 +1,1 @@
+1. Create a program that converts temperatures between Celsius and Fahrenheit. Ask the user for the temperature and whether it's in Celsius or Fahrenheit, then convert and display the result.
