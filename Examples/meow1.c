@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <cs50.h>
+#include <cs50.h>                       //preprocessing
 
-void meow(int n);
+void meow(int n); //prototype 
 
 int main(void){
     int x = get_int("Enter number of times: ");
@@ -13,3 +13,4 @@ void meow(int n){                   // x = 10, n = 10;
         printf("Meow\n");
     }
 }
+
