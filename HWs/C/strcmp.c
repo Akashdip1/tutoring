@@ -2,6 +2,8 @@
 #include <cs50.h>
 #include <string.h>
 
+def compare(string s, string t);
+
 typedef struct{         // person data type creation
                         // int, string, float... person(name, number)
     string name;
@@ -30,15 +32,25 @@ int main(void){
 
     for (int i = 0; i < 5; i++)
     {
-        int j;
-        for (j = 0; val[j] != '\0' && products[i].name[j] != '\0'; j++) {
-            if (val[j] != products[i].name[j]) {
-        }
+       if(compare(val, products[i].name) == 0)
+        {
             printf("Found!\n");
-            printf("%s\n", products[i].price);
             return 0;
         }
     }
     printf("Not Found.\n");
     return 1;
+}
+
+def compare(string s, string t)   // if s == t ?
+{   
+    if (strlen(s) != strlen(t))   // dog doger  ; for (int i = 0; i < 5, i++) ; n = strlen(s)
+                                    //              {
+                                    //                  if (s[i] != t[i]) --> return 1 (outside for loop                                    //                                                        return 0)
+                                    //              }
+    {
+        return 1;
+    }
+
+    return 0;
 }
