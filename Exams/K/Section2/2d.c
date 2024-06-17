@@ -12,7 +12,19 @@ int main(void)
 
 string reverse_case(string s)
 {
-    //Write your code here
+    int n = strlen(s);
+    for(int i = 0;i<n;i++)
+        {
+            if(isupper(s[i]))
+            {
+                s[i] = tolower(s[i]);
+            }
+            else if (islower(s[i))
+            {
+                s[i] = toupper(s[i];
+            }
+     }
+return s;
 }
 
 
