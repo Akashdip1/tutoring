@@ -13,5 +13,6 @@ int main(void)
 
 int average_marks(int arr[N])
 {
-    // Write your code here
+    int ans = (arr[0]+arr[1]+arr[2]+arr[3]+arr[4])/5 ;
+    return ans ;
 }
