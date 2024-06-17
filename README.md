@@ -2,4 +2,10 @@
 Materials for tutoring
 
 # Attention!!!
-Course is half done. So your exam will be held on this Sunday (16/06/2024). Timing and syllabus will be discussed in the following classes.
+Section 3 Links:
+
+https://cs50.harvard.edu/x/2024/psets/1/credit/
+
+https://cs50.harvard.edu/x/2024/psets/2/caesar/
+
+https://cs50.harvard.edu/x/2024/psets/2/substitution/
