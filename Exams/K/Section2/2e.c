@@ -21,6 +21,42 @@ int main(void)
 
 int max_of_six(int a, int b, int c, int d, int e, int f)
 {
-    // Write your code here
+    
+   int p,q,r,s,t;
+if(a>b)
+{
+    p = a;
+} else
+{
+    p = b;
+}
+if(p>c)
+{
+     q = p;
+} else
+{
+     q = c;
+}
+if(p>d)
+{
+     r = p;
+} else
+     r = d;
+}
+if(r>e)
+{
+     s = r;
+}else
+{
+     s = e;
+}
+if(s>f)
+{
+     t = s;
+} else
+{
+      t = f;
+ }
+return t;
 }
 

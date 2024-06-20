@@ -13,5 +13,11 @@ int main(void)
 
 int average_marks(int arr[N])
 {
-    // Write your code here
+    int sum = 0;
+    int length = sizeof arr[];
+    for(int i=0;i<=length;i++)
+        {
+            sum = sum+arr[i];
+        }
+    return sum/N ;
 }

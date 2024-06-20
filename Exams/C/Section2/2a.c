@@ -16,11 +16,30 @@ int main(void)
 
     int ans = max_of_six(a, b, c, d, e, f);
 
-    printf("Ans: %i\n", ans);
+    printf("int max a, b, c, d, e, f %i\n", ans);
+    return 0;
 }
 
 int max_of_six(int a, int b, int c, int d, int e, int f)
 {
-    // Write your code here
+    int max = a;
+
+     if(b > max)
+     max = b;
+
+     if(c > max)
+     max = c;
+
+     if(d > max)
+     max = d;
+
+     if(e > max)
+     max = e;
+
+     if(f > max)
+     max = f;
+
+     return max;
+
 }
 
