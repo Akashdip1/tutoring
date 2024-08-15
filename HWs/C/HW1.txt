@@ -1,1 +1,0 @@
-1. FizzBuzz: Get a number as an input and if the number is divisible by 2, speak 'Fizz', if the numbre is divisible by 3, say 'Buzz', if the number is divisible by both 2 and 3 say 'FizzBuzz'. 
