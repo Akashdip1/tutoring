@@ -1,0 +1,45 @@
+Variable Declaration:
+
+        1. Declare a variable to store an integer, a floating-point number, and a character.
+        Assign values to these variables and print them to the console.
+
+    Data Type Conversion:
+        2. Convert an integer value to a floating-point number and vice versa.
+        Print the results to observe any differences.
+
+Basic Arithmetic Operations
+
+    Arithmetic Expressions:
+        3. Write a program to calculate the area and perimeter of a rectangle given its length and width.
+        4. Use arithmetic operators to perform the calculations.
+
+    Order of Operations:
+        5. Explain the order of operations in C and demonstrate it with an example.
+
+Input and Output
+
+    Reading User Input:
+        6. Write a program that prompts the user to enter their name and age.
+        7. Read the input using scanf and print a personalized greeting message.
+
+    Formatting Output:
+        8. Use printf to format the output of a floating-point number to a specific number of decimal places.
+
+Conditional Statements
+
+    if Statements:
+        9. Write a program to determine whether a given number is positive, negative, or zero.
+        Use an if statement to check the conditions.
+
+    if-else Statements:
+        10. Write a program to check if a given year is a leap year.
+
+Loops
+
+    for Loops:
+        11. Write a program to print the numbers from 1 to 10.
+
+    while Loops:
+
+    12. Write a program to calculate the factorial of a given number using a while loop.
+

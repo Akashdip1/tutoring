@@ -3,7 +3,6 @@
 
 void hello(int n); // void = empty
 
-
 int main(void)
 {
     hello(3);
