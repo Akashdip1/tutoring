@@ -1,16 +1,16 @@
 # Unit Exam - 1
 
 #### 1.
-**a)** What is the purpose of the `main` function in a C program?
-**b)** What are the basic data types in C?
-**c)** Describe the concept of a loop and its types in C.
-**d)** Explain the purpose of header files in C.
-**e)** Describe the role of variables in programming. 
-**f)** What is the significance of the `return` statement in a function?
-**g)** List all the stages of compiling process.
-**h)** Give example of one header file that is included in c and of one that is not included in c.
-**i)** What is CLI and GUI?
-**j)** What is 'integer-overflow' and how can we fix this? 
+**a)** What is the purpose of the `main` function in a C program?<br>
+**b)** What are the basic data types in C?<br>
+**c)** Describe the concept of a loop and its types in C.<br>
+**d)** Explain the purpose of header files in C.<br>
+**e)** Describe the role of variables in programming. <br>
+**f)** What is the significance of the `return` statement in a function?<br>
+**g)** List all the stages of compiling process.<br>
+**h)** Give example of one header file that is included in c and of one that is not included in c.<br>
+**i)** What is CLI and GUI?<br>
+**j)** What is 'integer-overflow' and how can we fix this? <br>
 #### 2.
 Answer any 4 from the below.(Question 'c' is compulsary)
 ##### a)
