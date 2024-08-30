@@ -36,7 +36,7 @@ The program should input a number for the height of the rhombus.
 Write a program in `c` called `sumeven.c` that, given a number `N`, outputs the sum of all **even** numbers from 1 to N.
 
 ##### c)
-![Fibb]([https://av-eks-blogoptimized.s3.amazonaws.com/image_Pfy2Skh-thumbnail_webp-600x300.jpg](https://media.geeksforgeeks.org/wp-content/uploads/20230828183030/FIBONACCI-SERIES.png))
+![Fibb](https://media.geeksforgeeks.org/wp-content/uploads/20230828183030/FIBONACCI-SERIES.png)
 Write a program in `c` called `fibonacci.c` that, given a number `N`, outputs the **Nth** term of the fibonacci sequence.
 
 E.g.
