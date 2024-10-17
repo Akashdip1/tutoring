@@ -1,8 +1,6 @@
 ## 1.
 In the game of Scrabble, players create words to score points, and the number of points is the sum of the point values of each letter in the word For example, if we wanted to score the word “CODE”, we would note that the ‘C’ is worth 3 points, the ‘O’ is worth 1 point, the ‘D’ is worth 2 points, and the ‘E’ is worth 1 point. Summing these, we get that “CODE” is worth 7 points. In a file called scrabble.c in a folder called scrabble, implement a program in C that determines the winner of a short Scrabble-like game. Your program should prompt for input twice: once for “Player 1” to input their word and once for “Player 2” to input their word. Then, depending on which player scores the most points, your program should either print “Player 1 wins!”, “Player 2 wins!”, or “Tie!” (in the event the two players score equal points). (edited)
 
-[](https://cdn.discordapp.com/attachments/1276919394189971577/1290550423274524702/Screenshot_01-Oct_11-08-41_27875.png?ex=6711f63e&is=6710a4be&hm=2b02d7199b3c15778633ee5cf93a10c2b64404444908bbe00da1dfb119978281&)
-
 ![Image](https://media.discordapp.net/attachments/1276919394189971577/1290550423274524702/Screenshot_01-Oct_11-08-41_27875.png?ex=6711f63e&is=6710a4be&hm=2b02d7199b3c15778633ee5cf93a10c2b64404444908bbe00da1dfb119978281&=&format=webp&quality=lossless&width=1100&height=112)
 
 ## 2.
@@ -274,4 +272,4 @@ Try running your program on the following texts, to ensure you see the specified
 - `It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.` (Grade 10)
 - `A large class of computational problems involve the determination of properties of graphs, digraphs, integers, arrays of integers, finite families of finite sets, boolean formulas and elements of other countable domains.` (Grade 16+)
 
-## 3. ![Ceaser](https://imgur.com/RAVJO1v)
+## 3. [Ceaser](https://imgur.com/RAVJO1v)
