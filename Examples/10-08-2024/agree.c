@@ -1,7 +1,6 @@
 #include <stdio.h> // printf
 #include <cs50.h> // get_char
 
-
 int main(void)
 {
     // Prompt the user for agreement
